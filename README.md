@@ -12,7 +12,10 @@
    ción a equipos informáticos PC o Mac, finalmente ha sido portado a
    Android.
 
+   Es posible ver un video-resumen del trabajo realizado en el siguiente
+   enlace:
 
+   						https://youtu.be/i89faF8MsBw
 
    ..:: COMPILACIÓN ::..
 
