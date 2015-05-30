@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JavaScripts/ObstacleVehicle.js">
+    <Files>
+      <File FileName="Assets/Standard Assets/EnemyCar.js" Line="28" Column="13" />
+      <File FileName="Assets/Standard Assets/Car.js" Line="107" Column="1" />
+      <File FileName="Assets/Scripts/JavaScripts/ObstacleVehicle.js" Line="42" Column="38" />
+      <File FileName="Assets/Scripts/JavaScripts/CKmScript.js" Line="17" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
